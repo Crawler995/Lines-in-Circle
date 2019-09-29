@@ -1,6 +1,6 @@
 # Lines in Circle
 
-# Introduction
+## Introduction
 >A casual idea, but looks surprised when finished.<br>
 If a quantity of lines cover on a circle, what will we see?<br><br>
 
