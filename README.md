@@ -2,7 +2,8 @@
 
 ## Introduction
 >A casual idea, but looks surprised when finished.<br>
-If a quantity of lines cover on a circle, what will we see?<br><br>
+If a quantity of lines cover on a circle, what will we see?<br>
+https://crawler995.github.io/Lines-in-Circle/
 
 All configuration are in `config.js`, you can modify them.<br>
 `mapFunc` in it is the interesting item.<br>
