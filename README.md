@@ -1,7 +1,7 @@
 # Lines in Circle
 
 # Introduction
-A casual idea, but looks surprised when finished.<br>
+>A casual idea, but looks surprised when finished.<br>
 If a quantity of lines cover on a circle, what will we see?<br><br>
 
 All configuration are in `config.js`, you can modify them.<br>
