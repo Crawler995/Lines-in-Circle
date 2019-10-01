@@ -6,7 +6,7 @@ const config = {
   radiusFactor: 1/3,
   // spend {drawLineTime} ms to draw a line
   drawLineTime: 3000,
-  // when the previous line drawing finished, it will delay {drawLineDelay} ms and then draw next line
+  // when the previous line drawing started, it will delay {drawLineDelay} ms and then draw next line
   drawLineDelay: 100,
 
   backgroundColor: '#323232',
