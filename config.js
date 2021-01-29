@@ -9,7 +9,7 @@ const config = {
   // when the previous line drawing started, it will delay {drawLineDelay} ms and then draw next line
   drawLineDelay: 100,
 
-  backgroundColor: '#323232',
+  backgroundColor: '#ffced3',
   lineColor: '#fff',
 
   // i equals the index of the start point on the circle
@@ -20,6 +20,6 @@ const config = {
   // the result of the function will be parsed to integer,
   // and will be taken as the remainder of {step} to avoid 'out of range'
   mapFunc: function (i) {
-    return i * 2;
+    return i * 2 - 45;
   }
 };

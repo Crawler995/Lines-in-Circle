@@ -37,11 +37,14 @@
 
     noFill();
     stroke(lineColor);
+
+    translate(0, -windowHeight / 6);
     circle(windowWidth / 2, windowHeight / 2, radius * 2);
 
     lines.forEach((line, i) => {
       line.draw(i * drawLineDelay);
     });
+    translate(0, 0);
 
     TWEEN.update();
   }
